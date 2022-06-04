@@ -1,0 +1,2 @@
+Japanese “reserved” Button
+\ud83c\ude2f
